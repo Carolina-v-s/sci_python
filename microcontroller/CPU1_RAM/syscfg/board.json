@@ -1,6 +1,14 @@
 {
     "interruptInfo" : [
         {
+            "interruptName": "INT_ADC0_1",
+            "interruptHandler": "INT_ADC0_1_ISR"
+        },
+        {
+            "interruptName": "INT_myCPUTIMER1",
+            "interruptHandler": "INT_myCPUTIMER1_ISR"
+        },
+        {
             "interruptName": "INT_SCI0_RX",
             "interruptHandler": "INT_SCI0_RX_ISR"
         }

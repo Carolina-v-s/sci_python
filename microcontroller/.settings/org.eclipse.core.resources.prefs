@@ -8,3 +8,6 @@ encoding//CPU1_RAM/src/subdir_rules.mk=UTF-8
 encoding//CPU1_RAM/src/subdir_vars.mk=UTF-8
 encoding//CPU1_RAM/subdir_rules.mk=UTF-8
 encoding//CPU1_RAM/subdir_vars.mk=UTF-8
+encoding//src/scicomm.c=UTF-8
+encoding//src/scicomm.h=UTF-8
+encoding/main.c=UTF-8
